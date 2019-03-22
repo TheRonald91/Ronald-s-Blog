@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: https://theronald91.github.io/Ronald-s-Blog/sitemap.xml
+Sitemap: https://theronald91.github.io/Ronald-s-Blog//sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
